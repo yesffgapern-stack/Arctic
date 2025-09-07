@@ -1,6 +1,6 @@
 {
   "ArcticUrl": "https://",
   "BootstrapperUrl": "https://",
-  "ArcticVersion": "https://",
-  "BootstrapperVersion": "https://"
+  "ArcticVersion": "3.5",
+  "BootstrapperVersion": "1.0"
 }
